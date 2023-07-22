@@ -21,7 +21,7 @@
 					<header id="header" class="alt">
 						<span class="logo"><img src="images/hj.png" alt="" /></span>
 						<h1>Hyunju Kim</h1>
-						<p>PhD student @ KAIST, CDSN Lab</p>
+						<p>PhD candidate @ KAIST, CDSN Lab</p>
 						<ul class="icons">
 							<li><a href="https://www.linkedin.com/in/hyunju-kim-57182412b/" class="icon brands fa-linkedin alt"><span class="label">Linked In</span></a></li>
 							<li><a href="https://join.skype.com/invite/VmN8z5pLR608" class="icon brands fa-skype alt"><span class="label">Skype</span></a></li>
@@ -35,7 +35,7 @@
 
 				<!-- Nav -->
 					<nav id="nav">
-						<ul>dd
+						<ul>
 							<li><a href="#intro" class="active">Introduction</a></li>
 							<li><a href="#first">Publications</a></li>
 							<li><a href="#second">Projects</a></li>
@@ -54,7 +54,7 @@
 											<h2>Research on Human Activity Recognition and Assistance Systems</h2>
 										</header>
 										<p>
-											Hyunju Kim is a PhD student specializing in <b>Human Activity Recognition and Assistance Systems</b>. 
+											Hyunju Kim is a PhD candidate specializing in <b>Human Activity Recognition and Assistance Systems</b>. 
 											Her research centers on supporting users through distributed <b>sensors and actuators, including a robot</b>, 
 											while analyzing their activities based on <b>sensory and behavioral time series</b>. 
 										</p>
@@ -66,7 +66,7 @@
 										<p>
 											Her ultimate goal is to conduct sustainable research that empowers users to lead productive lives, 
 											and she actively seeks interdisciplinary connections to gain a deeper understanding of users. 
-											If you are interested in working with me, please contact me at <a href="mailto:iplay93@gmail.com">this Email</a>.											
+											If you are interested in working with me, please contact me at <a href="mailto:iplay93@kaist.ac.kr">this Email</a>.											
 										</p>
 										<!-- <ul class="actions">
 											<li><a href="generic.html" class="button">Learn More</a></li>
@@ -83,22 +83,40 @@
 								</header>
 								<ul class="features">
 									<li>
-										<span class="icon solid major style1 image"><img src="images/IoT.png" alt="" /></span>
-										<h3>ART : Temporal relation embedded transformer for the real
-											world activity recognition </h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="image"><img src="images/ART.png" class="responsive" alt="" /></span>
+										<h3><a href="https://www.springerprofessional.de/ar-t-temporal-relation-embedded-transformer-for-the-real-world-a/20115252">
+											ART: Temporal relation embedded Transformer for the real world activity recognition</a></h3>
+										<p>AR-T employs the Transformer to discover long-term context correlations by computing attention scores between all context pairs.
+											It also finds the importance weights of each context which makes infrequent but important
+											contexts extracted as one of the activity patterns. 
+											To differentiate the same-type contexts with different duration, it embeds not only context type but also the duration and positional information as an input to the Transformer. </p>
 									</li>
 									<li>
-										<span class="icon major style3 fa-copy"></span>
-										<h3>TAP: A transformer based activity prediction exploiting
-											temporal relations in collaborative task</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="image"><img src="images/TAP.png" class="responsive" alt="" /></span>
+										<h3><a href="https://ieeexplore.ieee.org/abstract/document/9431008/">
+											TAP: A transformer based activity prediction exploiting
+											temporal relations in collaborative task</a></h3>
+										<p> TAP leverages
+											Allen’s temporal relations to represent overlapping activities. 
+											However, an order of overlapping activities may not
+											be directly correlated with their start times. 
+											This leads us to develop a model learning long-term correlations in (activity,
+											temporal relation) pairs based on the Transformer. 
+											The model also enables finding infrequent but important activities
+											that are not possible to derive in an LSTM layer.</p>
 									</li>
 									<li>
-										<span class="icon major style5 fa-gem"></span>
-										<h3>ADELA: Attention based deep ensemble learning for activity
-											recognition in smart collaborative environments</h3>
-										<p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+										<span class="image"><img src="images/Adela.png" class="responsive" alt="" /></span>
+										<h3><a href="https://dl.acm.org/doi/abs/10.1145/3412841.3441924?casa_token=mMsO0DepWi8AAAAA:Ji1FUo8gZfCeLgVQ6qniAyVL9cz-KPml69UJXC_RpqWX7_AQ5_2tXpzrEw3Yh9VYOxXITGVl-9dl">
+										ADELA: Attention based deep ensemble learning for activity recognition</a></h3>
+										<p> ADELA assigns a high score to important events with low frequency
+											while a low score to continuously repetitive events, based on an
+											attention score that measures the similarity between the hidden
+											state of each event and the hidden state of its corresponding activity.
+											By compressing the information of a sequence of events
+											to a vector using the context vector of the attention mechanism,
+											ADELA prevents the information loss between long-term related
+											events.</p>
 									</li>
 								</ul>
 								<footer class="major">
@@ -118,7 +136,7 @@
 								<ul class="statistics">
 									<li class="style1">
 										<span class="icon solid fa-code-branch"></span>
-										<strong>5,120</strong> Etiam
+										<b>Ajou university</b> 
 									</li>
 									<li class="style2">
 										<span class="icon fa-folder-open"></span>
