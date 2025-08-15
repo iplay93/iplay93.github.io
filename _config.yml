@@ -72,3 +72,6 @@ kramdown:
 # Sass (필요 시)
 sass:
   style: compressed
+  
+# 타임존 명시
+timezone: Europe/London
