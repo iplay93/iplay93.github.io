@@ -2,7 +2,7 @@
 locale: ko-KR
 title: "Your Name"
 description: "Edge AI · Time-series ML · LLMs"
-url: "https://<username>.github.io"
+url: "https://iplay93.github.io"
 baseurl: ""   # 사용자 사이트는 공란, 프로젝트 사이트면 "/repo-name"
 
 # 테마 설정
