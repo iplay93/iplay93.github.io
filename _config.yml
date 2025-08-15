@@ -1,0 +1,75 @@
+# 사이트 기본 정보
+locale: ko-KR
+title: "Your Name"
+description: "Edge AI · Time-series ML · LLMs"
+url: "https://<username>.github.io"
+baseurl: ""   # 사용자 사이트는 공란, 프로젝트 사이트면 "/repo-name"
+
+# 테마 설정
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark"  # "default", "air", "aqua", "contrast" 등
+
+# 사이트 작성자 정보
+author:
+  name: "Your Name"
+  avatar: "/assets/img/avatar.jpg"
+  bio: "현재 소속 · 직함 | 연구 분야 키워드"
+  location: "London, UK"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:you@univ.ac.uk"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=XXXXX"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/<username>"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/<username>/"
+    - label: "CV"
+      icon: "far fa-file-pdf"
+      url: "/cv.pdf"
+
+# 빌드 옵션 (GitHub Pages 호환 플러그인 위주)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+
+paginate: 5
+paginate_path: "/page:num/"
+
+# 네비게이션 데이터 사용
+collections:
+  pages:
+    output: true
+
+# 헤더/푸터, 네비
+include:
+  - _pages
+
+# Navigation data
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# SEO
+seo:
+  type: "Person"
+  name: "Your Name"
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Sass (필요 시)
+sass:
+  style: compressed
