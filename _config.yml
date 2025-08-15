@@ -1,5 +1,4 @@
 # 사이트 기본 정보
-locale: ko-KR
 title: "Hyunju Kim"
 description: "Multi-modal Sensors · Time-series ML · Human-Centered AI"
 url: "https://iplay93.github.io"
@@ -21,13 +20,13 @@ author:
       url: "mailto:hyunju.kim@kcl.ac.uk"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=XXXXX"
+      url: "https://scholar.google.co.kr/citations?user=1y1E050AAAAJ"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/<username>"
+      url: "https://github.com/iplay93"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/<username>/"
+      url: "https://www.linkedin.com/in/hyunju-kim-57182412b/"
     - label: "CV"
       icon: "far fa-file-pdf"
       url: "/cv.pdf"
