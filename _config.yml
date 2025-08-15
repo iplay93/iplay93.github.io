@@ -12,7 +12,7 @@ minimal_mistakes_skin: "air"  # "default", "air", "aqua", "contrast" 등
 author:
   name: "Hyunju Kim"
   avatar: "/assets/img/.jpg"
-  bio: "Incoming Data Scientist @ King's College London | Multi-Modal Sensor based Human-Centered AI"
+  bio: "Incoming Data Scientist @ KCL | Multi-Modal Sensor based Human-Centered AI"
   location: "London, UK"
   links:
     - label: "Email"
