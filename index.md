@@ -3,10 +3,8 @@ layout: home
 author_profile: true
 ---
 
-My research lies at the intersection of Human Activity Recognition (HAR), Machine Learning, and Ubiquitous Computing, with a particular focus on developing cutting-edge methods for Self-Learning Activity Recognition and Personalization Systems in the open world.
+I am an incoming Data Scientist in the Department of Biostatistics & Health Informatics at King’s College London. I received my Ph.D. and M.S. from KAIST under the supervision of Prof. Dongman Lee. 
+My research lies at the intersection of multimodal ubiquitous computing, human activity recognition, and machine learning, with a particular focus on self-learning activity recognition and personalization in open-world settings. 
+I aim to develop methods that are robust in the wild and actionable in real healthcare contexts. 
 
-I am deeply fascinated by the challenges of time series analysis, sensor data fusion, temporal relation modeling, and causality-aware pattern mining, which are critical for advancing the effectiveness of activity recognition systems. Furthermore, I am keenly interested in the integration of smart devices, ambient sensors, wearable sensors, and robotics to develop personalized and adaptive service solutions, utilizing reinforcement learning to drive context-aware and user-specific automation systems.
-
-Currently, my work explores the application of deep learning techniques such as Transformers and contrastive learning for generalizable novelty detection and early recognition of human activities, aiming to enhance user experience and service optimization in intelligent environments. 
-
-Through these research endeavors, I aim to contribute to the development of more intuitive, responsive, and human-centric smart environments that seamlessly integrate into everyday life.
+I am seeking motivated collaborators in healthcare and AI.
