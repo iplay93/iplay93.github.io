@@ -1,6 +1,6 @@
 # 사이트 기본 정보
 locale: ko-KR
-title: "Your Name"
+title: "Hyunju Kim"
 description: "Edge AI · Time-series ML · LLMs"
 url: "https://iplay93.github.io"
 baseurl: ""   # 사용자 사이트는 공란, 프로젝트 사이트면 "/repo-name"
