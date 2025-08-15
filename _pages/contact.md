@@ -3,7 +3,7 @@ permalink: /contact/
 title: Contact
 ---
 
-**소속**: Dept. of XXX, University of YYY  
+**소속**: Biostatistics & Health Informatics at King’s College London.
 **이메일**: you@univ.ac.uk  
 **주소**: Street, City, Country
 
