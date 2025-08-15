@@ -63,7 +63,7 @@ defaults:
 # SEO
 seo:
   type: "Person"
-  name: "Your Name"
+  name: "Hyunju Kim"
 
 # Markdown
 markdown: kramdown
