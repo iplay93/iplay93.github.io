@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-title: "News"
 ---
 
 I am an incoming Data Scientist in the Department of Biostatistics & Health Informatics at King’s College London. I received my Ph.D. and M.S. from KAIST under the supervision of Prof. Dongman Lee. 
