@@ -1,9 +1,11 @@
 ---
+layout: single
 permalink: /publications/
-title: Publications
+author_profile: true
+read_time: false
+share: false
+related: false
 ---
-
-아래는 선별된 논문 리스트 예시입니다.
 
 1. **Paper Title 1**  
    *Author1, Author2, Your Name*  
