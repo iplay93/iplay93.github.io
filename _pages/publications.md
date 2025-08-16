@@ -1,10 +1,6 @@
 ---
 layout: single
 permalink: /publications/
-author_profile: true
-read_time: false
-share: false
-related: false
 ---
 
 1. **Paper Title 1**  
