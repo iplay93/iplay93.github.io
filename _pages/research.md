@@ -1,5 +1,11 @@
 ---
+layout: single
 permalink: /research/
+author_profile: true
+# 아래 옵션은 취향에 따라
+read_time: false
+share: false
+related: false
 ---
 
 My research lies at the intersection of Human Activity Recognition (HAR), Machine Learning, and Ubiquitous Computing, with a particular focus on developing cutting-edge methods for Self-Learning Activity Recognition and Personalization Systems in the open world.
