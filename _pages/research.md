@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-title: Research
 ---
 
 My research lies at the intersection of Human Activity Recognition (HAR), Machine Learning, and Ubiquitous Computing, with a particular focus on developing cutting-edge methods for Self-Learning Activity Recognition and Personalization Systems in the open world.
